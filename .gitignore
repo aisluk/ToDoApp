@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Kotlin Multiplatform
+.kotlin/
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
